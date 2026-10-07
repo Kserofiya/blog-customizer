@@ -30,3 +30,4 @@ test-results
 *storybook.log
 
 **/*.scss.d.ts
+*.d.scss.ts
