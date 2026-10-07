@@ -1,0 +1,25 @@
+declare const classNames: {
+  readonly text: 'text';
+  readonly 'open-sans': 'open-sans';
+  readonly ubuntu: 'ubuntu';
+  readonly 'cormorant-garamond': 'cormorant-garamond';
+  readonly 'days-one': 'days-one';
+  readonly merriweather: 'merriweather';
+  readonly left: 'left';
+  readonly center: 'center';
+  readonly uppercase: 'uppercase';
+  readonly size12: 'size12';
+  readonly size18: 'size18';
+  readonly size22: 'size22';
+  readonly size25: 'size25';
+  readonly size31: 'size31';
+  readonly size38: 'size38';
+  readonly size45: 'size45';
+  readonly weight400: 'weight400';
+  readonly weight800: 'weight800';
+  readonly normal: 'normal';
+  readonly italic: 'italic';
+  readonly dynamic: 'dynamic';
+  readonly dynamicLite: 'dynamicLite';
+};
+export default classNames;
